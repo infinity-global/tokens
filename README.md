@@ -18,3 +18,4 @@ https://tphelp.gitbook.io/en/wallet-operation/how-to-submit-a-token-logo
 ### 怎么提交
 https://tphelp.gitbook.io/cn/wallet-operation/submit-token
 
+![INFINITY GLOBAL  oficipng](https://user-images.githubusercontent.com/88602215/156454554-3b02e679-f959-487c-b6dd-117479c96b83.png)
